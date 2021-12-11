@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pertemuan8_Informasi_Covid</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/rubikbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/rubikregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/rubiklight</string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="zero">( +0 )</string>
+    <string-array name="daftar_kota">
+        <item>ACEH</item>
+        <item>SUMATERA UTARA</item>
+        <item>SUMATERA BARAT</item>
+        <item>RIAU</item>
+        <item>KEPULAUAN RIAU</item>
+        <item>JAMBI</item>
+        <item>SUMATERA SELATAN</item>
+        <item>BENGKULU</item>
+        <item>LAMPUNG</item>
+        <item>DKI JAKARTA</item>
+        <item>BANTEN</item>
+        <item>JAWA BARAT</item>
+        <item>JAWA TENGAH</item>
+        <item>JAWA TIMUR</item>
+        <item>BALI</item>
+        <item>NUSA TENGGARA BARAT</item>
+        <item>NUSA TENGGARA TIMUR</item>
+        <item>KALIMANTAN SELATAN</item>
+        <item>KALIMANTAN BARAT</item>
+        <item>KALIMANTAN TENGAH</item>
+        <item>KALIMANTAN TIMUR</item>
+        <item>KALIMANTAN UTARA</item>
+        <item>SULAWESI UTARA</item>
+        <item>SULAWESI TENGAH</item>
+        <item>SULAWESI BARAT</item>
+        <item>SULAWESI TENGGARA</item>
+        <item>GORONTALO</item>
+
+    </string-array>
+</resources>
